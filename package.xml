@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ListViewComponent</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Account.Industry</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Account.Financial_Services_Account_Listing</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Wealth Profile</members>
+        <name>Profile</name>
+    </types>
+    <version>50.0</version>
+</Package>
